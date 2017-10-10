@@ -1,0 +1,12 @@
+o programa cria arquivos e diretorios aleatorios no windows
+
+Perguntas
+- O nome do arquivo segue um padrão?
+- O nome do arquivo é aleatório?
+- A extensão do arquivo é txt?
+- A extensão do arquivo é aleatório
+
+https://stackoverflow.com/questions/204017/how-do-i-execute-a-program-from-python-os-system-fails-due-to-spaces-in-path
+https://stackoverflow.com/questions/534839/how-to-create-a-guid-uuid-in-python
+https://www.digitalcitizen.life/3-ways-create-random-dummy-files-windows-given-size
+https://stackoverflow.com/questions/2186525/use-a-glob-to-find-files-recursively-in-python
